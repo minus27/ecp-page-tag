@@ -1,4 +1,4 @@
-# Edge Compute JavaScript Page Tagging Example
+# Fastly Compute@Edge JavaScript Page Tagging Example
 
 ## Overview
 This Fastly Compute@Edge project demonstrates how HTML content in a response body can be intercepted and modified for the purposes of "Page Tagging" or adding a JavaScript `<script>` element.
